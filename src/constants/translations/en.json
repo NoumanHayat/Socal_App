@@ -1,0 +1,81 @@
+{
+  "creater": {
+    "name": "Nouman Hayat",
+    "loucation": "Islamabad, Pakistan"
+  },
+  "common": {
+    "language":"English",
+    "appDetails": "This is social App",
+    "appName": "Nouman's App", 
+    "appVersion": "1.0",
+    "buildVersion": "1.0"
+  },
+
+  "darkMode": "Dark Mode",
+  
+  
+  "navigation": {
+    "StartingPoint": "StartingPoint",
+    "Login":"Login",
+    "SignUp":"SignUp",
+    "Dashboard":"Dashboard"
+  },
+  "Screen":{
+    "StartingPoint": "StartingPoint",
+    "Login":"Login",
+    "SignUp":"SignUp",
+    "Dashboard":"Dashboard"
+  },
+
+  "dashboardScreen":{
+    "Home":"Home",
+    "Notification":"Notification",
+    "Profile":"Profile",
+    "Setting":"Setting"
+  },
+  "dashboardNavigation":{
+    "Home":"Home",
+    "Notification":"Notification",
+    "Profile":"Profile",
+    "Setting":"Setting"
+  },
+  "login":{
+    "title":"Login",
+    "emailTitle":"Email",
+    "passwordTitle":"Password",
+    "emailInput":"Enter your email address",
+    "passwordInput":"Enter your Password",
+    "signInLabel":"Sign In",
+    "signUpLabel":"Sign Up",
+    "text1":"or continue with"
+  },
+  "signup":{
+    "title":"Signup",
+    "firstNameLabel":"First Name",
+    "lastNameLabel":"Last Name",
+    "emailLabel":"Email",
+    "passwordLabel":"Password",
+    "firstNameInput":"First Name",
+    "lastNameInput":"Last Name",
+    "emailInput":"Email",
+    "passwordInput":"Password",
+    "text1":"By sign up you agree to our ",
+    "text2":"Term & Conditions",
+    "text3":"and",
+    "text4":"Privacy Policy",
+    "signInLabel":"Sign In",
+    "signUpLabel":"Sign Up"
+
+
+  },
+  "settings": {
+    "Contact_US":"Contact us",
+    "Change_Language":"Change Language",
+    "Change_Language_Message":"language is changed",
+    "Change_Mode":"Change Mode Successfully",
+    "Logout":"Logout"
+  }
+
+}  
+ 
+ 

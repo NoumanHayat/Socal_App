@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424554922573",
+    "project_id": "my-social-app-e50ee",
+    "storage_bucket": "my-social-app-e50ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424554922573:android:e09d884bab6dc957d5d204",
+        "android_client_info": {
+          "package_name": "com.nouman_theme_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424554922573-hv3gn9t5n5irfnpvsv4u86lj3hgsiig1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9p3Si9d79Gqlkgm6Fmj4krT90BuFMARg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424554922573-hv3gn9t5n5irfnpvsv4u86lj3hgsiig1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

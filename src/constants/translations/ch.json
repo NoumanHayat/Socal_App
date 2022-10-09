@@ -1,0 +1,80 @@
+{
+  "creater": {
+    "name": "Nouman Hayat",
+    "loucation": "Islamabad, Pakistan"
+  },
+  "common": {
+    "language":"中国人",
+    "appDetails": "这是社交应用",
+    "appName": "努曼的应用程序", 
+    "appVersion": "1.0",
+    "buildVersion": "1.0"
+  },
+
+  "darkMode": "黑暗模式",
+  
+  
+  "navigation": {
+    "StartingPoint": "StartingPoint",
+    "Login":"Login",
+    "SignUp":"SignUp",
+    "Dashboard":"Dashboard"
+  },
+  "Screen":{
+    "StartingPoint": "初始点",
+    "Login":"登录",
+    "SignUp":"报名",
+    "Dashboard":"仪表板"
+  },
+
+  "dashboardScreen":{
+    "Home":"家",
+    "Notification":"通知",
+    "Profile":"轮廓",
+    "Setting":"环境"
+  },
+  "dashboardNavigation":{
+    "Home":"Home",
+    "Notification":"Notification",
+    "Profile":"Profile",
+    "Setting":"Setting"
+  },
+  "login":{
+    "title":"登录",
+    "emailTitle":"电子邮件",
+    "passwordTitle":"密码",
+    "emailInput":"输入你的电子邮箱地址",
+    "passwordInput":"输入您的密码",
+    "signInLabel":"登入",
+    "signUpLabel":"报名",
+    "text1":"或继续"
+  },
+  "signup":{
+    "title":"注册",
+    "firstNameLabel":"名",
+    "lastNameLabel":"姓",
+    "emailLabel":"电子邮件",
+    "passwordLabel":"密码",
+    "firstNameInput":"名",
+    "lastNameInput":"姓",
+    "emailInput":"电子邮件",
+    "passwordInput":"密码",
+    "text1":"注册即表示您同意我们的",
+    "text2":"条款和条件",
+    "text3":"和",
+    "text4":"隐私政策",
+    "signInLabel":"登入",
+    "signUpLabel":"报名"
+
+
+  },
+  "settings": {
+    "Contact_US":"联系我们",
+    "Change_Language":"改变语言",
+    "Change_Language_Message":"语言变了",
+    "Change_Mode":"更改模式成功",
+    "Logout":"登出"
+  }
+
+}  
+ 
